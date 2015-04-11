@@ -1,6 +1,8 @@
 # xbox-controller-s-breakout
 Xbox Controller S breakout - allows to use pretty much anything to control an original Xbox if wired to a gamepad
 
+![Image of breakout](https://cloud.githubusercontent.com/assets/1298071/7101728/05ad3502-e068-11e4-9d26-e5c692b0209f.JPG)
+
 [ /!\ REPO BEING CURRENTLY UPDATED ]
 
 For more infos on the circuit:
