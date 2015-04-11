@@ -2,3 +2,8 @@ The "doc" directory contains:
   - images taken during the hack of an Xbox Controller S ( useful image references )
   - images taken while building the Xbox Controller breakout board
   - maybe some text file(s) additional to the WiKi page(s)
+
+R:
+  images present in the README hosted on the repo were added in a 'hacky' way:
+  - create a new GitHub issue and drag the image into the textbox
+  - use the link provided by Github in the readme ( '![Image of <...>](https://octodex.github.com/...)' )
