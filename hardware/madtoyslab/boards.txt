@@ -1,0 +1,19 @@
+# .= Madtoylab =.
+
+##############################################################
+
+mtlxbxctrlsbb.name=[Madtoyslab.] XboxControllerS breakout board
+mtlxbxctrlsbb.upload.protocol=arduino
+mtlxbxctrlsbb.upload.maximum_size=32256
+mtlxbxctrlsbb.upload.speed=115200
+mtlxbxctrlsbb.bootloader.low_fuses=0xff
+mtlxbxctrlsbb.bootloader.high_fuses=0xde
+mtlxbxctrlsbb.bootloader.extended_fuses=0x05
+mtlxbxctrlsbb.bootloader.path=madtoyslab
+mtlxbxctrlsbb.bootloader.file=optiboot_atmega328.hex
+mtlxbxctrlsbb.bootloader.unlock_bits=0x3F
+mtlxbxctrlsbb.bootloader.lock_bits=0x0F
+mtlxbxctrlsbb.build.mcu=atmega328p
+mtlxbxctrlsbb.build.f_cpu=16000000L
+mtlxbxctrlsbb.build.core=arduino
+mtlxbxctrlsbb.build.variant=standard
