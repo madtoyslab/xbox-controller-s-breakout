@@ -8,7 +8,11 @@ Xbox Controller S breakout - allows to use pretty much anything to control an or
 - the code handling the "überjoys" is setup for their v0.1a breakout board ( that is, with 4 transistors, not 5 ) 
 - the lib currently only provides advanced handling for the status LED (blinking patterns  ), but not anything else 
 
-For more infos on the circuit:
+## For more infos on the circuit:
+
+#### Schematics & board:
 http://123d.circuits.io/circuits/641214-madtoyslab-xbox-controller-s-breakout-board-minus-uberjoy-s-added-gndpour-fork-still-visual-glitches
+#### Hackaday project:
+https://hackaday.io/project/5415-madtoylab-xboxcontrollers-breakout-board
 
 "I wanna play Mario64 emulated on an original Xbox using the Emotiv Epoc headset as controller" ? => wip ;P
